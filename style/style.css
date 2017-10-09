@@ -1,0 +1,67 @@
+body{
+	font-family: Arial;
+	font-size: 15px;
+}
+#hd{
+	border:2px solid black;
+	border-radius: 7px;
+	margin:10px;
+	float: center;
+	padding: 50px;
+}
+#hd ol{
+	color: #333333;
+	font-weight: bold;
+	background-color:white;
+}
+#hd h1{
+	background-color:white;
+	text-align: center;
+	font-family: Dense;
+	font-size: 50px;
+}
+#hd input{
+	font-family: Gulim;
+	font-size: 30px;
+	margin: auto;
+	background-color: #40bf80;
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+#todo{
+	border: 2px solid black;
+	border-radius: 4px;
+	margin: 10px;
+	padding: 10px;
+}
+#maths{
+	border: 2px solid black;
+	border-radius: 4px;
+	margin: 10px;
+	padding: 10px;
+}
+#image{
+	border: 2px solid black;
+	border-radius: 4px;
+	margin: 10px;
+	padding: 10px;
+}
+#contact{
+	border: 2px solid black;
+	border-radius: 4px;
+	font-weight: 5px;
+	padding: 10px;
+	margin: 10px;
+	float: right;
+	font-weight: bold;
+}
+body img{
+	 border-radius: 5px;
+	 max-width: 250px;
+	 max-height: 250px;
+}
